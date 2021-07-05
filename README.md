@@ -35,3 +35,8 @@ When this application is deployed, it will create an AWS CodePipeline pipeline t
 ##### Here is an example CodePipeline pipeline that has all 5 stages.
 .
 ![aws-sam-codepipeline-cd-pipeline-example](https://github.com/awslabs/aws-sam-codepipeline-cd/raw/master/images/aws-sam-codepipeline-cd-pipeline-example.png)
+
+
+##### Cost Estimates for 4 CICDPipelines
+
+![Cost Estimates for 4 CICDPipelines](https://github.com/ashubeginner/AWSCICDPipeline/blob/main/cost_estimation.jpg)
