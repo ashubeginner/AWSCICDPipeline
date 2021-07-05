@@ -14,7 +14,7 @@
 
 ### CI-CD Architecture Using CodePipeline
 
-[![N|Solid](https://s3.amazonaws.com/analyzer.fmlnerd.com/img/ServerlessCICDmed.png)](https://nodesource.com/products/nsolid)
+[(https://s3.amazonaws.com/analyzer.fmlnerd.com/img/ServerlessCICDmed.png)](https://nodesource.com/products/nsolid)
 
 ### If you are new to CI and CD 
 > At a high level the CI-CD thing looks like this:
